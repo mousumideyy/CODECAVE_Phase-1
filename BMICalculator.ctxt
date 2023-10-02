@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BMICalculator
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=weight\ height
+comment2.target=double\ calBMI(double,\ double)
+comment3.params=bmi
+comment3.target=java.lang.String\ dethelcat(double)
+numComments=4
